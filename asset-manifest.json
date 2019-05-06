@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kilo-image-search-web-app/static/css/main.10add2f2.chunk.css",
+    "main.js": "/kilo-image-search-web-app/static/js/main.83f7c6b4.chunk.js",
+    "main.js.map": "/kilo-image-search-web-app/static/js/main.83f7c6b4.chunk.js.map",
+    "runtime~main.js": "/kilo-image-search-web-app/static/js/runtime~main.a701fc6d.js",
+    "runtime~main.js.map": "/kilo-image-search-web-app/static/js/runtime~main.a701fc6d.js.map",
+    "static/css/2.266e55a5.chunk.css": "/kilo-image-search-web-app/static/css/2.266e55a5.chunk.css",
+    "static/js/2.55766631.chunk.js": "/kilo-image-search-web-app/static/js/2.55766631.chunk.js",
+    "static/js/2.55766631.chunk.js.map": "/kilo-image-search-web-app/static/js/2.55766631.chunk.js.map",
+    "index.html": "/kilo-image-search-web-app/index.html",
+    "precache-manifest.ecfe12c9a9b2fb7ac2d3c5ae975dc78a.js": "/kilo-image-search-web-app/precache-manifest.ecfe12c9a9b2fb7ac2d3c5ae975dc78a.js",
+    "service-worker.js": "/kilo-image-search-web-app/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/kilo-image-search-web-app/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.10add2f2.chunk.css.map": "/kilo-image-search-web-app/static/css/main.10add2f2.chunk.css.map"
+  }
+}
